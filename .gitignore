@@ -1,0 +1,8 @@
+# Ignore C executables and object files
+*.o
+*.out
+*.exe
+main
+
+# Ignore VS Code settings (optional)
+.vscode/
